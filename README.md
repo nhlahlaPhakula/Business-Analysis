@@ -1,0 +1,1 @@
+This repository is for student admission sign-off process which include admissions member, selection committee and the head of department. It shows what was and what is to be. Inside we have user stories and acceptance criteria, a swimlane diagram and a functional requiremnts document
